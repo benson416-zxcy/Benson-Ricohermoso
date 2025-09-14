@@ -1,7 +1,10 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=benson416-zxcy&show_icons=true&theme=tokyonight)           ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benson416-zxcy&layout=compact&theme=tokyonight)
 
 # Benson-Ricohermoso
 👋 Hi, I'm Benson  🎓 IT Student | 📊 Aspiring Data Analyst | 💻 Future Software Engineer
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benson416-zxcy&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benson416-zxcy&show_icons=true&theme=tokyonight)
 
 
 🚀 ABOUT ME
