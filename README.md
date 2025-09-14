@@ -1,5 +1,4 @@
-# Benson-Ricohermoso
-👋 Hi, I'm Benson  🎓 IT Student | 📊 Aspiring Data Analyst | 💻 Future Software Engineer
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=benson416-zxcy&show_icons=true&theme=tokyonight)           ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benson416-zxcy&layout=compact&theme=tokyonight)
 
