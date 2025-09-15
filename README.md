@@ -4,7 +4,8 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benson416-zxcy&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=benson416-zxcy&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benson416-zxcy&theme=tokyonight)
+
 
 ### 🚀 About me
 
